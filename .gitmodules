@@ -1,0 +1,3 @@
+[submodule "src/spambase-util"]
+	path = src/spambase-util
+	url = http://github.com/mfournierca/spambase-util.git
